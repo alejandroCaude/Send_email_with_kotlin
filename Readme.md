@@ -16,7 +16,7 @@
 
 git clone https://github.com/alejandroCaude/Send_email_with_kotlin.git
 
-2. **Importa el proyecto**: Abre tu IDE preferido (se recomienda IntelliJ IDEA para proyectos de Kotlin) y importa el proyecto clonado.
+2. **Importa el proyecto**: Abre tu IDE preferido y importa el proyecto clonado.
 
 3. **Configura el correo electrónico**: Abre el archivo `Config.kt` y configura las variables `EMAIL_HOST`, `EMAIL_PORT`, `EMAIL_USERNAME` y `EMAIL_PASSWORD` con la información de tu servidor de correo electrónico saliente (SMTP).
 
