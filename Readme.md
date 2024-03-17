@@ -1,6 +1,6 @@
 **# Aplicación de Envío de Correo Electrónico**
 
-**Esta es una aplicación simple desarrollada en Kotlin que permite enviar correos electrónicos ingresando una dirección de correo en un campo de entrada y luego haciendo clic en el botón "Enviar".**
+Esta es una aplicación simple desarrollada en Kotlin que permite enviar correos electrónicos ingresando una dirección de correo en un campo de entrada y luego haciendo clic en el botón "Enviar".
 
 **## Requisitos previos**
 
