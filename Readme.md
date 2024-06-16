@@ -30,10 +30,6 @@ git clone https://github.com/alejandroCaude/Send_email_with_kotlin.git
 2. **Haz clic en el botón "Enviar".**
 3. **Si la operación es exitosa, recibirás una notificación indicando que el correo electrónico ha sido enviado correctamente.**
 
-**## Contribución**
-
-**Si deseas contribuir a este proyecto, ¡te damos la bienvenida! Puedes hacerlo mediante la apertura de issues para reportar errores, sugerir nuevas funcionalidades o enviando pull requests con tus contribuciones.**
-
 **## Licencia**
 
 **Este proyecto está bajo la licencia [MIT](LICENSE).**
